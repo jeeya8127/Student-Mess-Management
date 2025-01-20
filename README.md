@@ -9,7 +9,8 @@ A simple and efficient system to manage student information and mess details.
 - Update Student: Modify existing student information
 - Error handling:Validates user inputs for-
   Non-numeric data in numeric field.
-  Empty field
+  
+  Empty field.
   
 #Technologies Used:
 - Programming Language: Java
